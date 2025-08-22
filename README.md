@@ -10,7 +10,7 @@
 Integrating semantic reasoning and graph-based classifiers into YOLOv8 to enable coarse-to-fine predictions.
 
 📌 **Tech Stack:** Python, PyTorch, OpenImages, WordNet, GNNs  
-🔗 [Project Repository](https://github.com/Awais-khanBangash/Hierarchical-Object-Detection-with-YOLOv8-and-GNNs)
+🔗 [Project Repository](https://github.com/Awais-khanBangash/Hierarchical-YOLOv8-)
 
 ---
 
